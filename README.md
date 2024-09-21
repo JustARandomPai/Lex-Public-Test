@@ -1,2 +1,2 @@
-# Ro-Sniper
+# Lex
 Roblox username generator
