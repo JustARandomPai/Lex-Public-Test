@@ -1,6 +1,7 @@
 import itertools
 import os
 import time
+from . import colors as bcolors
 
 def debug_print(message):
     print(f"[DEBUG] {message}")
@@ -27,6 +28,14 @@ def display_menu(config):
     os.system('cls' if os.name == 'nt' else 'clear')
     config = config["settings"]
     try:
+        print(f"{bcolors.HEADER}{bcolors.BOLD}")
+        print("  ================================")
+        print("      USERNAME VALIDATOR TOOL     ")
+        print("  ================================")
+        print("                Lex           ")
+        print("  ================================")
+        print(f"{bcolors.ENDC}")
+        print(f"{bcolors.BOLD}==================================={bcolors.ENDC}")
         print(f"Target valid usernames: {config['targetValidNames']}")
         print(f"Length of usernames: {config['length']}")
         print(f"Include numbers: {'Yes' if config['includeNumbers'] else 'No'}")
