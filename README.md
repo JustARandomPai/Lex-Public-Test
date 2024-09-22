@@ -4,7 +4,7 @@
 ### Use
 To use Lex, make sure that your operating system is Windows and has python installed (*can be both microsoft and website version*)
 Click "Code" and then click "Download ZIP"
-![code button](https://imgur.com/a/uLL9Yk6)
+![code button](https://imgur.com/BwZ7Waa.jpg)
 ![download zip button](https://imgur.com/bK4LSJG.jpg)
 
 Afterwards make a folder somewhere on your PC and unzip the file inside it.
