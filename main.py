@@ -20,7 +20,7 @@ async def main():
         
         valid_usernames = await find_usernames(config)
         
-        # Animation
+        # Animations hehe
         spinner_animation(duration=5)
 
         display_summary(valid_usernames, config)
