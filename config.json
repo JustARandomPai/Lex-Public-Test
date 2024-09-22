@@ -1,0 +1,20 @@
+{
+    "information": {
+        "version": "alpha-0.1_1",
+        "name": "Lex",
+        "description": "Snipes Roblox usernames",
+        "author": "Lvl",
+        "contributors": ["Pai"],
+        "license": "CC BY-NC-ND 4.0"
+    },
+    "settings": {
+        "targetValidNames": 250,
+        "length": 6,
+        "includeNumbers": false,
+        "showInvalid": false,
+        "debugMode": false,
+        "defaultBatchSize": 150,
+        "defaultRetries": 3,
+        "semaphore": 1000
+    }
+}
