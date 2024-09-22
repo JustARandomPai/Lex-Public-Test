@@ -11,4 +11,6 @@ Afterwards make a folder somewhere on your PC and unzip the file inside it.
 Then open the config.json file to edit any configurations.
 To run it simply click run.bat!
 
+
+
 Lex © 2024 by Lvl (Level) is licensed under CC BY-NC-ND 4.0 
